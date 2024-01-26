@@ -1,0 +1,13 @@
+https://github.com/adafruit/MAX6675-library
+https://github.com/arduino-libraries/LiquidCrystal
+https://github.com/arduino-libraries/Servo
+https://github.com/br3ttb/Arduino-PID-Library
+https://github.com/deadsy/grbl_stm32f4
+https://github.com/firmata/arduino
+https://github.com/heethesh/eYSIP-2017_Control_and_Algorithms_development_for_Quadcopter
+https://github.com/jabelone/car-controller
+https://github.com/mbocaneg/Inverted-Pendulum-Robot
+https://github.com/RIOT-OS/RIOT
+https://github.com/rocketscream/MAX31855
+https://github.com/rocketscream/Reflow-Oven-Controller
+https://github.com/smarmengol/Modbus-Master-Slave-for-Arduino

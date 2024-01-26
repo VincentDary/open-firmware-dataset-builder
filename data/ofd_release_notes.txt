@@ -1,0 +1,5 @@
+
+This dataset is a production of Vincent Dary and it is released under the terms
+of the Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International
+(CC BY-NC-ND 4.0). A copy of the license CC BY-NC-ND 4.0 is provided along with
+this release.
